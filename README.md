@@ -16,6 +16,6 @@ Se presentan tres KPIs adicionales, además de la tasa de conversión de inscrit
 ### Repositorio de GitHub
 En el repositorio de GitHub asociado a este proyecto, se encuentran los siguientes archivos y carpetas:
 
-/datasets: Contiene los datasets proporcionados para el análisis.
-/notebooks: Incluye el archivo del Jupyter Notebook con el EDA realizado.
-/dashboard: Contiene el archivo del dashboard interactivo en Power BI.
+# /datasets: Contiene los datasets proporcionados para el análisis.
+# /notebooks: Incluye el archivo del Jupyter Notebook con el EDA realizado.
+# /dashboard: Contiene el archivo del dashboard interactivo en Power BI.
